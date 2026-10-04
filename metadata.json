@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Repair Shop Pro - ระบบจัดการร้านซ่อมมือถือ",
+  "description": "ระบบจัดการร้านซ่อมโทรศัพท์มือถือครบวงจร ออกใบรับซ่อม ติดตามสถานะงาน คำนวณค่าอะไหล่และค่าแรง บันทึกข้อมูลลูกค้า และรายงานสรุปยอด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
